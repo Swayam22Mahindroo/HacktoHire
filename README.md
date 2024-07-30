@@ -1,6 +1,8 @@
 # Flight Notification System
 ## Overview
 This project implements a flight notification system using Flask for the backend, React for the frontend, and Kafka for real-time notifications. SQLite is used for database management. The system allows users to manage flight data and receive real-time updates on flight status changes.
+## Link for ppt
+https://drive.google.com/file/d/12_y4_2IvD85j-kaR4GVdlEGLMhkdkhL1/view?usp=sharing
 ## Project Structure
 The repository is organized into three main folders:
 1. **Consumer Solution**: Flask application to consume Kafka messages.
@@ -87,3 +89,4 @@ npm start
 Feel free to fork the repository, make changes, and submit pull requests. For any questions or issues, open an issue on GitHub.
 ## License
 This project is licensed under the MIT License.
+
